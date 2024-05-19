@@ -1,0 +1,2628 @@
+﻿  Admin.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,31): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,32): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLULEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,11): error C3646: 'Data1' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,16): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,10): error C3646: 'Data2' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,10): error C3646: 'Data3' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,10): error C3646: 'Data4' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,15): error C2143: erreur de syntaxe : absence de ',' avant '['
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,20): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C2378: 'SQLULEN' : redéfinition ; un symbole ne peut pas être surchargé avec un typedef
+  (compiler le fichier source 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25):
+  voir la déclaration de 'SQLULEN'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'BOOKMARK'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(621,12): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(627,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(645,59): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(686,55): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(715,42): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(750,84): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(763,22): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(826,72): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(829,38): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(839,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(855,33): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(868,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(880,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1930,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1953,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1962,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2009,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2091,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2160,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,37): error C2065: 'LPWSTR' : identificateur non déclaré
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,44): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'szFileName'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,28): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceReturn'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,29): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceVersion'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCSetTryWaitValue'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,1): error C2086: 'int DWORD' : redéfinition
+  (compiler le fichier source 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,1):
+  voir la déclaration de 'DWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCGetTryWaitValue'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,28): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,13): error C3646: 'dwFlags' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,20): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,24): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,23): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,32): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,31): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,1): error C2086: 'int VOID' : redéfinition
+  (compiler le fichier source 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,1):
+  voir la déclaration de 'VOID'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'FireVSDebugEvent'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(55,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(82,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(107,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(188,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(277,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(480,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(505,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(530,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(597,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(696,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(701,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Admin.cpp')
+  
+C:\Users\Douaa\source\repos\Res\Res\Admin.cpp(3,88): error C2614: 'Admin' : initialisation de membre non conforme : 'Login' n'est ni une base ni un membre
+  Client.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,31): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,32): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLULEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,11): error C3646: 'Data1' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,16): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,10): error C3646: 'Data2' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,10): error C3646: 'Data3' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,10): error C3646: 'Data4' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,15): error C2143: erreur de syntaxe : absence de ',' avant '['
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,20): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C2378: 'SQLULEN' : redéfinition ; un symbole ne peut pas être surchargé avec un typedef
+  (compiler le fichier source 'Client.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25):
+  voir la déclaration de 'SQLULEN'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'BOOKMARK'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(621,12): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(627,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(645,59): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(686,55): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(715,42): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(750,84): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(763,22): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(826,72): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(829,38): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(839,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(855,33): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(868,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(880,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1930,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1953,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1962,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2009,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2091,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2160,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,37): error C2065: 'LPWSTR' : identificateur non déclaré
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,44): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'szFileName'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,28): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceReturn'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,29): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceVersion'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCSetTryWaitValue'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,1): error C2086: 'int DWORD' : redéfinition
+  (compiler le fichier source 'Client.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,1):
+  voir la déclaration de 'DWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCGetTryWaitValue'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,28): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,13): error C3646: 'dwFlags' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,20): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,24): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,23): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,32): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,31): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,1): error C2086: 'int VOID' : redéfinition
+  (compiler le fichier source 'Client.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,1):
+  voir la déclaration de 'VOID'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'FireVSDebugEvent'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(55,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(82,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(107,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(188,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(277,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(480,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(505,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(530,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(597,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(696,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(701,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Client.cpp')
+  
+C:\Users\Douaa\source\repos\Res\Res\Client.cpp(23,21): warning C4477: 'swprintf' : la chaîne de format '%s' nécessite un argument de type 'wchar_t *', mais l'argument variadique 1 est de type 'const _Elem *'
+C:\Users\Douaa\source\repos\Res\Res\Client.cpp(23,21): warning C4477:         with
+C:\Users\Douaa\source\repos\Res\Res\Client.cpp(23,21): warning C4477:         [
+C:\Users\Douaa\source\repos\Res\Res\Client.cpp(23,21): warning C4477:             _Elem=char
+C:\Users\Douaa\source\repos\Res\Res\Client.cpp(23,21): warning C4477:         ]
+  C:\Users\Douaa\source\repos\Res\Res\Client.cpp(23,21):
+  utilisez '%hs' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Client.cpp(23,21):
+  utilisez '%Ts' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Client.cpp(23,21):
+  cet avertissement est basé sur la sémantique non standard utilisée par Visual C++
+  
+C:\Users\Douaa\source\repos\Res\Res\Client.cpp(28,12): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'idClient'
+C:\Users\Douaa\source\repos\Res\Res\Client.cpp(28,12): error C2065: 'idClient' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Client.cpp(32,42): error C2065: 'idClient' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Client.cpp(32,59): error C2065: 'idClient' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Client.cpp(35,9): error C2065: 'idClient' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Client.cpp(41,12): error C2065: 'idClient' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Client.cpp(23,5): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  Connection.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,31): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,32): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLULEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,11): error C3646: 'Data1' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,16): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,10): error C3646: 'Data2' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,10): error C3646: 'Data3' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,10): error C3646: 'Data4' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,15): error C2143: erreur de syntaxe : absence de ',' avant '['
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,20): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C2378: 'SQLULEN' : redéfinition ; un symbole ne peut pas être surchargé avec un typedef
+  (compiler le fichier source 'Connection.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25):
+  voir la déclaration de 'SQLULEN'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'BOOKMARK'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(621,12): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(627,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(645,59): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(686,55): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(715,42): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(750,84): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(763,22): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(826,72): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(829,38): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(839,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(855,33): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(868,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(880,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1930,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1953,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1962,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2009,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2091,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2160,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,37): error C2065: 'LPWSTR' : identificateur non déclaré
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,44): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'szFileName'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,28): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceReturn'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,29): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceVersion'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCSetTryWaitValue'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,1): error C2086: 'int DWORD' : redéfinition
+  (compiler le fichier source 'Connection.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,1):
+  voir la déclaration de 'DWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCGetTryWaitValue'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,28): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,13): error C3646: 'dwFlags' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,20): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,24): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,23): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,32): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,31): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,1): error C2086: 'int VOID' : redéfinition
+  (compiler le fichier source 'Connection.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,1):
+  voir la déclaration de 'VOID'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'FireVSDebugEvent'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(55,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(82,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(107,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(188,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(277,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(480,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(505,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(530,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(597,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(696,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(701,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Connection.cpp')
+  
+  Login.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,31): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,32): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLULEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,11): error C3646: 'Data1' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,16): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,10): error C3646: 'Data2' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,10): error C3646: 'Data3' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,10): error C3646: 'Data4' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,15): error C2143: erreur de syntaxe : absence de ',' avant '['
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,20): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C2378: 'SQLULEN' : redéfinition ; un symbole ne peut pas être surchargé avec un typedef
+  (compiler le fichier source 'Login.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25):
+  voir la déclaration de 'SQLULEN'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'BOOKMARK'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(621,12): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(627,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(645,59): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(686,55): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(715,42): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(750,84): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(763,22): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(826,72): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(829,38): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(839,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(855,33): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(868,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(880,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1930,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1953,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1962,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2009,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2091,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2160,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,37): error C2065: 'LPWSTR' : identificateur non déclaré
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,44): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'szFileName'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,28): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceReturn'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,29): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceVersion'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCSetTryWaitValue'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,1): error C2086: 'int DWORD' : redéfinition
+  (compiler le fichier source 'Login.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,1):
+  voir la déclaration de 'DWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCGetTryWaitValue'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,28): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,13): error C3646: 'dwFlags' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,20): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,24): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,23): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,32): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,31): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,1): error C2086: 'int VOID' : redéfinition
+  (compiler le fichier source 'Login.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,1):
+  voir la déclaration de 'VOID'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'FireVSDebugEvent'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(55,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(82,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(107,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(188,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(277,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(480,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(505,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(530,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(597,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(696,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(701,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Login.cpp')
+  
+C:\Users\Douaa\source\repos\Res\Res\Login.cpp(13,21): warning C4477: 'swprintf' : la chaîne de format '%s' nécessite un argument de type 'wchar_t *', mais l'argument variadique 1 est de type 'const _Elem *'
+C:\Users\Douaa\source\repos\Res\Res\Login.cpp(13,21): warning C4477:         with
+C:\Users\Douaa\source\repos\Res\Res\Login.cpp(13,21): warning C4477:         [
+C:\Users\Douaa\source\repos\Res\Res\Login.cpp(13,21): warning C4477:             _Elem=char
+C:\Users\Douaa\source\repos\Res\Res\Login.cpp(13,21): warning C4477:         ]
+  C:\Users\Douaa\source\repos\Res\Res\Login.cpp(13,21):
+  utilisez '%hs' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Login.cpp(13,21):
+  utilisez '%Ts' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Login.cpp(13,21):
+  cet avertissement est basé sur la sémantique non standard utilisée par Visual C++
+  
+C:\Users\Douaa\source\repos\Res\Res\Login.cpp(19,12): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'passwordLength'
+C:\Users\Douaa\source\repos\Res\Res\Login.cpp(19,12): error C2065: 'passwordLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Login.cpp(21,70): error C2065: 'passwordLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Login.cpp(22,64): error C2065: 'passwordLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Login.cpp(13,5): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  Personne.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,31): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,32): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLULEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,11): error C3646: 'Data1' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,16): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,10): error C3646: 'Data2' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,10): error C3646: 'Data3' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,10): error C3646: 'Data4' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,15): error C2143: erreur de syntaxe : absence de ',' avant '['
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,20): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C2378: 'SQLULEN' : redéfinition ; un symbole ne peut pas être surchargé avec un typedef
+  (compiler le fichier source 'Personne.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25):
+  voir la déclaration de 'SQLULEN'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'BOOKMARK'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(621,12): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(627,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(645,59): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(686,55): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(715,42): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(750,84): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(763,22): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(826,72): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(829,38): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(839,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(855,33): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(868,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(880,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1930,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1953,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1962,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2009,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2091,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2160,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,37): error C2065: 'LPWSTR' : identificateur non déclaré
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,44): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'szFileName'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,28): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceReturn'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,29): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceVersion'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCSetTryWaitValue'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,1): error C2086: 'int DWORD' : redéfinition
+  (compiler le fichier source 'Personne.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,1):
+  voir la déclaration de 'DWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCGetTryWaitValue'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,28): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,13): error C3646: 'dwFlags' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,20): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,24): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,23): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,32): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,31): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,1): error C2086: 'int VOID' : redéfinition
+  (compiler le fichier source 'Personne.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,1):
+  voir la déclaration de 'VOID'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'FireVSDebugEvent'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(55,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(82,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(107,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(188,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(277,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(480,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(505,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(530,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(597,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(696,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(701,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Personne.cpp')
+  
+  Res.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,31): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,32): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLULEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,11): error C3646: 'Data1' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,16): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,10): error C3646: 'Data2' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,10): error C3646: 'Data3' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,10): error C3646: 'Data4' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,15): error C2143: erreur de syntaxe : absence de ',' avant '['
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,20): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C2378: 'SQLULEN' : redéfinition ; un symbole ne peut pas être surchargé avec un typedef
+  (compiler le fichier source 'Res.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25):
+  voir la déclaration de 'SQLULEN'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'BOOKMARK'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(621,12): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(627,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(645,59): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(686,55): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(715,42): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(750,84): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(763,22): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(826,72): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(829,38): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(839,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(855,33): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(868,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(880,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1930,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1953,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1962,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2009,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2091,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2160,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,37): error C2065: 'LPWSTR' : identificateur non déclaré
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,44): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'szFileName'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,28): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceReturn'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,29): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceVersion'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCSetTryWaitValue'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,1): error C2086: 'int DWORD' : redéfinition
+  (compiler le fichier source 'Res.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,1):
+  voir la déclaration de 'DWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCGetTryWaitValue'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,28): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,13): error C3646: 'dwFlags' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,20): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,24): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,23): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,32): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,31): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,1): error C2086: 'int VOID' : redéfinition
+  (compiler le fichier source 'Res.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,1):
+  voir la déclaration de 'VOID'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'FireVSDebugEvent'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(55,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(82,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(107,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(188,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(277,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(480,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(505,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(530,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(597,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(696,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(701,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Res.cpp')
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(23,15): error C2512: 'Admin' : aucun constructeur par défaut approprié disponible
+  C:\Users\Douaa\source\repos\Res\Res\Admin.h(10,7):
+  voir la déclaration de 'Admin'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(25,20): error C2512: 'Restaurant' : aucun constructeur par défaut approprié disponible
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.h(7,7):
+  voir la déclaration de 'Restaurant'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(26,21): error C2512: 'Reservation' : aucun constructeur par défaut approprié disponible
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.h(8,7):
+  voir la déclaration de 'Reservation'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(27,18): error C2660: 'Login::authentifier' : la fonction ne prend pas 0 arguments
+  C:\Users\Douaa\source\repos\Res\Res\Login.h(16,10):
+  voir la déclaration de 'Login::authentifier'
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(27,18):
+  lors de la tentative de mise en correspondance de la liste des arguments '()'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(78,21): error C2086: 'int idReservation' : redéfinition
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(71,21):
+  voir la déclaration de 'idReservation'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(89,21): error C2086: 'int idReservation' : redéfinition
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(71,21):
+  voir la déclaration de 'idReservation'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(106,21): error C2512: 'Reservation' : aucun constructeur par défaut approprié disponible
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.h(8,7):
+  voir la déclaration de 'Reservation'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(107,20): error C2512: 'Restaurant' : aucun constructeur par défaut approprié disponible
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.h(7,7):
+  voir la déclaration de 'Restaurant'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(136,17): error C2086: 'int idReservation' : redéfinition
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(129,17):
+  voir la déclaration de 'idReservation'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(59,13): error C2360: l'initialisation de 'nomRestaurant' est ignorée par l'étiquette 'case'
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(53,24):
+  voir la déclaration de 'nomRestaurant'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(66,13): error C2360: l'initialisation de 'nomRestaurant' est ignorée par l'étiquette 'case'
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(53,24):
+  voir la déclaration de 'nomRestaurant'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(70,13): error C2360: l'initialisation de 'nomRestaurant' est ignorée par l'étiquette 'case'
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(53,24):
+  voir la déclaration de 'nomRestaurant'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(77,13): error C2360: l'initialisation de 'nomRestaurant' est ignorée par l'étiquette 'case'
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(53,24):
+  voir la déclaration de 'nomRestaurant'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(84,13): error C2360: l'initialisation de 'nomRestaurant' est ignorée par l'étiquette 'case'
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(53,24):
+  voir la déclaration de 'nomRestaurant'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(88,13): error C2360: l'initialisation de 'nomRestaurant' est ignorée par l'étiquette 'case'
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(53,24):
+  voir la déclaration de 'nomRestaurant'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(94,13): error C2361: l'initialisation de 'nomRestaurant' est ignorée par l'étiquette 'default'
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(53,24):
+  voir la déclaration de 'nomRestaurant'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(149,9): error C2360: l'initialisation de 'cuisine' est ignorée par l'étiquette 'case'
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(143,20):
+  voir la déclaration de 'cuisine'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(156,9): error C2360: l'initialisation de 'lieu' est ignorée par l'étiquette 'case'
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(150,20):
+  voir la déclaration de 'lieu'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(156,9): error C2360: l'initialisation de 'cuisine' est ignorée par l'étiquette 'case'
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(143,20):
+  voir la déclaration de 'cuisine'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(160,9): error C2360: l'initialisation de 'lieu' est ignorée par l'étiquette 'case'
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(150,20):
+  voir la déclaration de 'lieu'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(160,9): error C2360: l'initialisation de 'cuisine' est ignorée par l'étiquette 'case'
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(143,20):
+  voir la déclaration de 'cuisine'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(163,9): error C2361: l'initialisation de 'lieu' est ignorée par l'étiquette 'default'
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(150,20):
+  voir la déclaration de 'lieu'
+  
+C:\Users\Douaa\source\repos\Res\Res\Res.cpp(163,9): error C2361: l'initialisation de 'cuisine' est ignorée par l'étiquette 'default'
+  C:\Users\Douaa\source\repos\Res\Res\Res.cpp(143,20):
+  voir la déclaration de 'cuisine'
+  
+  Reservation.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,31): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,32): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLULEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,11): error C3646: 'Data1' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,16): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,10): error C3646: 'Data2' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,10): error C3646: 'Data3' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,10): error C3646: 'Data4' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,15): error C2143: erreur de syntaxe : absence de ',' avant '['
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,20): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C2378: 'SQLULEN' : redéfinition ; un symbole ne peut pas être surchargé avec un typedef
+  (compiler le fichier source 'Reservation.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25):
+  voir la déclaration de 'SQLULEN'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'BOOKMARK'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(621,12): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(627,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(645,59): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(686,55): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(715,42): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(750,84): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(763,22): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(826,72): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(829,38): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(839,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(855,33): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(868,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(880,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1930,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1953,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1962,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2009,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2091,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2160,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,37): error C2065: 'LPWSTR' : identificateur non déclaré
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,44): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'szFileName'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,28): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceReturn'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,29): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceVersion'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCSetTryWaitValue'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,1): error C2086: 'int DWORD' : redéfinition
+  (compiler le fichier source 'Reservation.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,1):
+  voir la déclaration de 'DWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCGetTryWaitValue'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,28): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,13): error C3646: 'dwFlags' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,20): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,24): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,23): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,32): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,31): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,1): error C2086: 'int VOID' : redéfinition
+  (compiler le fichier source 'Reservation.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,1):
+  voir la déclaration de 'VOID'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'FireVSDebugEvent'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(55,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(82,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(107,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(188,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(277,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(480,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(505,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(530,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(597,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(696,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(701,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Reservation.cpp')
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(52,12): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'id'
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(52,12): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(52,16): error C2065: 'dateLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(57,42): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(57,53): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(58,42): error C2597: référence non conforme à un membre non static 'Reservation::date'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.h(11,12):
+  voir la déclaration de 'Reservation::date'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(58,63): error C2065: 'dateLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(59,9): error C2660: 'SQLGetData' : la fonction ne prend pas 6 arguments
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(748,20):
+  voir la déclaration de 'SQLGetData'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(59,9):
+  lors de la tentative de mise en correspondance de la liste des arguments '(SQLHSTMT, int, int, SQLFLOAT *, size_t, int)'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(60,9): error C2660: 'SQLGetData' : la fonction ne prend pas 6 arguments
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(748,20):
+  voir la déclaration de 'SQLGetData'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(60,9):
+  lors de la tentative de mise en correspondance de la liste des arguments '(SQLHSTMT, int, int, SQLFLOAT *, size_t, int)'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(61,9): error C2660: 'SQLGetData' : la fonction ne prend pas 6 arguments
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(748,20):
+  voir la déclaration de 'SQLGetData'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(61,9):
+  lors de la tentative de mise en correspondance de la liste des arguments '(SQLHSTMT, int, int, SQLINTEGER *, size_t, int)'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(62,42): error C2597: référence non conforme à un membre non static 'Reservation::idClient'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.h(15,9):
+  voir la déclaration de 'Reservation::idClient'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(62,9): error C2660: 'SQLGetData' : la fonction ne prend pas 6 arguments
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(748,20):
+  voir la déclaration de 'SQLGetData'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(62,9):
+  lors de la tentative de mise en correspondance de la liste des arguments '(SQLHSTMT, int, int, int Reservation::* , size_t, int)'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(63,42): error C2597: référence non conforme à un membre non static 'Reservation::idTable'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.h(16,9):
+  voir la déclaration de 'Reservation::idTable'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(63,9): error C2660: 'SQLGetData' : la fonction ne prend pas 6 arguments
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(748,20):
+  voir la déclaration de 'SQLGetData'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(63,9):
+  lors de la tentative de mise en correspondance de la liste des arguments '(SQLHSTMT, int, int, int Reservation::* , size_t, int)'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(65,44): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(66,30): error C2597: référence non conforme à un membre non static 'Reservation::date'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.h(11,12):
+  voir la déclaration de 'Reservation::date'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(70,38): error C2597: référence non conforme à un membre non static 'Reservation::idClient'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.h(15,9):
+  voir la déclaration de 'Reservation::idClient'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(71,45): error C2597: référence non conforme à un membre non static 'Reservation::idTable'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.h(16,9):
+  voir la déclaration de 'Reservation::idTable'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(47,5): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(91,12): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'id'
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(91,12): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(91,16): error C2065: 'dateLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(97,42): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(97,53): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(98,42): error C2597: référence non conforme à un membre non static 'Reservation::date'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.h(11,12):
+  voir la déclaration de 'Reservation::date'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(98,63): error C2065: 'dateLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(99,9): error C2660: 'SQLGetData' : la fonction ne prend pas 6 arguments
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(748,20):
+  voir la déclaration de 'SQLGetData'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(99,9):
+  lors de la tentative de mise en correspondance de la liste des arguments '(SQLHSTMT, int, int, SQLFLOAT *, size_t, int)'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(100,9): error C2660: 'SQLGetData' : la fonction ne prend pas 6 arguments
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(748,20):
+  voir la déclaration de 'SQLGetData'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(100,9):
+  lors de la tentative de mise en correspondance de la liste des arguments '(SQLHSTMT, int, int, SQLFLOAT *, size_t, int)'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(101,9): error C2660: 'SQLGetData' : la fonction ne prend pas 6 arguments
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(748,20):
+  voir la déclaration de 'SQLGetData'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(101,9):
+  lors de la tentative de mise en correspondance de la liste des arguments '(SQLHSTMT, int, int, SQLINTEGER *, size_t, int)'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(102,42): error C2597: référence non conforme à un membre non static 'Reservation::idClient'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.h(15,9):
+  voir la déclaration de 'Reservation::idClient'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(102,9): error C2660: 'SQLGetData' : la fonction ne prend pas 6 arguments
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(748,20):
+  voir la déclaration de 'SQLGetData'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(102,9):
+  lors de la tentative de mise en correspondance de la liste des arguments '(SQLHSTMT, int, int, int Reservation::* , size_t, int)'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(103,42): error C2597: référence non conforme à un membre non static 'Reservation::idTable'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.h(16,9):
+  voir la déclaration de 'Reservation::idTable'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(103,9): error C2660: 'SQLGetData' : la fonction ne prend pas 6 arguments
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(748,20):
+  voir la déclaration de 'SQLGetData'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(103,9):
+  lors de la tentative de mise en correspondance de la liste des arguments '(SQLHSTMT, int, int, int Reservation::* , size_t, int)'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(106,44): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(107,30): error C2597: référence non conforme à un membre non static 'Reservation::date'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.h(11,12):
+  voir la déclaration de 'Reservation::date'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(111,38): error C2597: référence non conforme à un membre non static 'Reservation::idClient'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.h(15,9):
+  voir la déclaration de 'Reservation::idClient'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(112,40): error C2597: référence non conforme à un membre non static 'Reservation::idTable'
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.h(16,9):
+  voir la déclaration de 'Reservation::idTable'
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(86,5): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(151,25): warning C4477: 'swprintf' : la chaîne de format '%s' nécessite un argument de type 'wchar_t *', mais l'argument variadique 1 est de type 'const _Elem *'
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(151,25): warning C4477:         with
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(151,25): warning C4477:         [
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(151,25): warning C4477:             _Elem=char
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(151,25): warning C4477:         ]
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(151,25):
+  utilisez '%hs' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(151,25):
+  utilisez '%Ts' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(151,25):
+  cet avertissement est basé sur la sémantique non standard utilisée par Visual C++
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(151,9): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(188,21): warning C4477: 'swprintf' : la chaîne de format '%s' nécessite un argument de type 'wchar_t *', mais l'argument variadique 1 est de type 'const _Elem *'
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(188,21): warning C4477:         with
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(188,21): warning C4477:         [
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(188,21): warning C4477:             _Elem=char
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(188,21): warning C4477:         ]
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(188,21):
+  utilisez '%hs' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(188,21):
+  utilisez '%Ts' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(188,21):
+  cet avertissement est basé sur la sémantique non standard utilisée par Visual C++
+  
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(188,5): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\Douaa\source\repos\Res\Res\Reservation.cpp(206,5): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  Restaurant.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,31): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,32): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLULEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,11): error C3646: 'Data1' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,16): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,10): error C3646: 'Data2' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,10): error C3646: 'Data3' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,10): error C3646: 'Data4' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,15): error C2143: erreur de syntaxe : absence de ',' avant '['
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,20): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C2378: 'SQLULEN' : redéfinition ; un symbole ne peut pas être surchargé avec un typedef
+  (compiler le fichier source 'Restaurant.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25):
+  voir la déclaration de 'SQLULEN'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'BOOKMARK'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(621,12): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(627,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(645,59): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(686,55): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(715,42): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(750,84): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(763,22): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(826,72): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(829,38): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(839,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(855,33): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(868,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(880,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1930,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1953,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1962,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2009,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2091,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2160,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,37): error C2065: 'LPWSTR' : identificateur non déclaré
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,44): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'szFileName'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,28): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceReturn'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,29): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceVersion'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCSetTryWaitValue'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,1): error C2086: 'int DWORD' : redéfinition
+  (compiler le fichier source 'Restaurant.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,1):
+  voir la déclaration de 'DWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCGetTryWaitValue'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,28): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,13): error C3646: 'dwFlags' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,20): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,24): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,23): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,32): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,31): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,1): error C2086: 'int VOID' : redéfinition
+  (compiler le fichier source 'Restaurant.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,1):
+  voir la déclaration de 'VOID'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'FireVSDebugEvent'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(55,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(82,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(107,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(188,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(277,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(480,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(505,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(530,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(597,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(696,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(701,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Restaurant.cpp')
+  
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(37,12): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'id'
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(37,12): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(37,16): error C2065: 'nameLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(37,28): error C2065: 'addressLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(37,43): error C2065: 'cuisineLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(41,42): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(41,53): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(42,63): error C2065: 'nameLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(43,69): error C2065: 'addressLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(44,69): error C2065: 'cuisineLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(46,38): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(32,5): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21): warning C4477: 'swprintf' : la chaîne de format '%s' nécessite un argument de type 'wchar_t *', mais l'argument variadique 1 est de type 'const _Elem *'
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21): warning C4477:         with
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21): warning C4477:         [
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21): warning C4477:             _Elem=char
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21): warning C4477:         ]
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21):
+  utilisez '%hs' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21):
+  utilisez '%Ts' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21):
+  cet avertissement est basé sur la sémantique non standard utilisée par Visual C++
+  
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21): warning C4477: 'swprintf' : la chaîne de format '%s' nécessite un argument de type 'wchar_t *', mais l'argument variadique 2 est de type 'const _Elem *'
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21): warning C4477:         with
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21): warning C4477:         [
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21): warning C4477:             _Elem=char
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21): warning C4477:         ]
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21):
+  utilisez '%hs' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21):
+  utilisez '%Ts' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21):
+  cet avertissement est basé sur la sémantique non standard utilisée par Visual C++
+  
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21): warning C4477: 'swprintf' : la chaîne de format '%s' nécessite un argument de type 'wchar_t *', mais l'argument variadique 3 est de type 'const _Elem *'
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21): warning C4477:         with
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21): warning C4477:         [
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21): warning C4477:             _Elem=char
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21): warning C4477:         ]
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21):
+  utilisez '%hs' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21):
+  utilisez '%Ts' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,21):
+  cet avertissement est basé sur la sémantique non standard utilisée par Visual C++
+  
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(74,5): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(93,21): warning C4477: 'swprintf' : la chaîne de format '%s' nécessite un argument de type 'wchar_t *', mais l'argument variadique 1 est de type 'const _Elem *'
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(93,21): warning C4477:         with
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(93,21): warning C4477:         [
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(93,21): warning C4477:             _Elem=char
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(93,21): warning C4477:         ]
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(93,21):
+  utilisez '%hs' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(93,21):
+  utilisez '%Ts' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(93,21):
+  cet avertissement est basé sur la sémantique non standard utilisée par Visual C++
+  
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(93,5): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(117,12): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'id'
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(117,12): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(117,16): error C2065: 'nameLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(117,28): error C2065: 'addressLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(117,43): error C2065: 'cuisineLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(121,42): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(121,53): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(122,63): error C2065: 'nameLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(123,69): error C2065: 'addressLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(124,69): error C2065: 'cuisineLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31): warning C4477: 'swprintf' : la chaîne de format '%s' nécessite un argument de type 'wchar_t *', mais l'argument variadique 1 est de type 'const _Elem *'
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31): warning C4477:         with
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31): warning C4477:         [
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31): warning C4477:             _Elem=char
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31): warning C4477:         ]
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31):
+  utilisez '%hs' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31):
+  utilisez '%Ts' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31):
+  cet avertissement est basé sur la sémantique non standard utilisée par Visual C++
+  
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31): warning C4477: 'swprintf' : la chaîne de format '%s' nécessite un argument de type 'wchar_t *', mais l'argument variadique 2 est de type 'const _Elem *'
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31): warning C4477:         with
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31): warning C4477:         [
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31): warning C4477:             _Elem=char
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31): warning C4477:         ]
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31):
+  utilisez '%hs' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31):
+  utilisez '%Ts' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31):
+  cet avertissement est basé sur la sémantique non standard utilisée par Visual C++
+  
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31): warning C4477: 'swprintf' : la chaîne de format '%s' nécessite un argument de type 'wchar_t *', mais l'argument variadique 3 est de type 'const _Elem *'
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31): warning C4477:         with
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31): warning C4477:         [
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31): warning C4477:             _Elem=char
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31): warning C4477:         ]
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31):
+  utilisez '%hs' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31):
+  utilisez '%Ts' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,31):
+  cet avertissement est basé sur la sémantique non standard utilisée par Visual C++
+  
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(112,5): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(141,9): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(164,21): warning C4477: 'swprintf' : la chaîne de format '%s' nécessite un argument de type 'wchar_t *', mais l'argument variadique 1 est de type 'const _Elem *'
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(164,21): warning C4477:         with
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(164,21): warning C4477:         [
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(164,21): warning C4477:             _Elem=char
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(164,21): warning C4477:         ]
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(164,21):
+  utilisez '%hs' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(164,21):
+  utilisez '%Ts' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(164,21):
+  cet avertissement est basé sur la sémantique non standard utilisée par Visual C++
+  
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(169,12): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'id'
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(169,12): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(169,16): error C2065: 'nameLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(169,28): error C2065: 'addressLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(169,43): error C2065: 'cuisineLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(173,42): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(173,53): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(174,63): error C2065: 'nameLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(175,69): error C2065: 'addressLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(176,81): error C2065: 'cuisineLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(178,40): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(164,5): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(197,21): warning C4477: 'swprintf' : la chaîne de format '%s' nécessite un argument de type 'wchar_t *', mais l'argument variadique 1 est de type 'const _Elem *'
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(197,21): warning C4477:         with
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(197,21): warning C4477:         [
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(197,21): warning C4477:             _Elem=char
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(197,21): warning C4477:         ]
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(197,21):
+  utilisez '%hs' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(197,21):
+  utilisez '%Ts' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(197,21):
+  cet avertissement est basé sur la sémantique non standard utilisée par Visual C++
+  
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(202,12): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'id'
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(202,12): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(202,16): error C2065: 'nameLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(202,28): error C2065: 'addressLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(202,43): error C2065: 'cuisineLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(206,42): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(206,53): error C2065: 'id' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(207,63): error C2065: 'nameLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(208,81): error C2065: 'addressLength' : identificateur non déclaré
+C:\Users\Douaa\source\repos\Res\Res\Restaurant.cpp(208,81): error C1003: le nombre d'erreurs est supérieur à 100 ; arrêt de la compilation
+  Table.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,31): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(64,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,32): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'SQLULEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,11): error C3646: 'Data1' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(289,16): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,10): error C3646: 'Data2' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(290,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,10): error C3646: 'Data3' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(291,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,10): error C3646: 'Data4' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,15): error C2143: erreur de syntaxe : absence de ',' avant '['
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(292,20): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,33): error C2378: 'SQLULEN' : redéfinition ; un symbole ne peut pas être surchargé avec un typedef
+  (compiler le fichier source 'Table.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(65,25):
+  voir la déclaration de 'SQLULEN'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqltypes.h(297,25): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'BOOKMARK'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(621,12): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(627,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(645,59): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(686,55): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(715,42): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(750,84): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(763,22): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(826,72): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(829,38): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(839,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(855,33): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(868,39): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(880,33): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1930,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1953,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(1962,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2009,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2091,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2160,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,37): error C2065: 'LPWSTR' : identificateur non déclaré
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2170,44): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'szFileName'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,28): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceReturn'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,29): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'TraceVersion'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2195,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCSetTryWaitValue'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,36): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,1): error C2086: 'int DWORD' : redéfinition
+  (compiler le fichier source 'Table.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2177,1):
+  voir la déclaration de 'DWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2196,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ODBCGetTryWaitValue'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2218,28): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,13): error C3646: 'dwFlags' : spécificateur de substitution inconnu
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2219,20): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2221,24): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2222,23): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2225,32): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C2143: erreur de syntaxe : absence de ';' avant '*'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2226,31): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,1): error C2086: 'int VOID' : redéfinition
+  (compiler le fichier source 'Table.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2176,1):
+  voir la déclaration de 'VOID'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlext.h(2231,17): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'FireVSDebugEvent'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(55,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(82,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(107,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(188,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(277,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(480,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(505,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(530,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(597,5): error C2061: erreur de syntaxe : identificateur 'SQLLEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(696,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sqlucode.h(701,5): error C2061: erreur de syntaxe : identificateur 'SQLULEN'
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(37,5): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(56,21): warning C4477: 'swprintf' : la chaîne de format '%s' nécessite un argument de type 'wchar_t *', mais l'argument variadique 1 est de type 'const _Elem *'
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(56,21): warning C4477:         with
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(56,21): warning C4477:         [
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(56,21): warning C4477:             _Elem=char
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(56,21): warning C4477:         ]
+  C:\Users\Douaa\source\repos\Res\Res\Table.cpp(56,21):
+  utilisez '%hs' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Table.cpp(56,21):
+  utilisez '%Ts' dans la chaîne de format
+  C:\Users\Douaa\source\repos\Res\Res\Table.cpp(56,21):
+  cet avertissement est basé sur la sémantique non standard utilisée par Visual C++
+  
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(56,5): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(82,5): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(106,12): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'idTable'
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(106,12): error C2597: référence non conforme à un membre non static 'Table::idTable'
+  C:\Users\Douaa\source\repos\Res\Res\Table.h(9,9):
+  voir la déclaration de 'Table::idTable'
+  
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(106,12): error C3867: 'Table::idTable' : syntaxe non-standard ; utilisez '&' pour créer un pointeur vers un membre
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(106,12): error C2568: ',' : impossible de résoudre la surcharge de fonction
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(108,42): error C2597: référence non conforme à un membre non static 'Table::idTable'
+  C:\Users\Douaa\source\repos\Res\Res\Table.h(9,9):
+  voir la déclaration de 'Table::idTable'
+  
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(108,9): error C2660: 'SQLGetData' : la fonction ne prend pas 6 arguments
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(748,20):
+  voir la déclaration de 'SQLGetData'
+  C:\Users\Douaa\source\repos\Res\Res\Table.cpp(108,9):
+  lors de la tentative de mise en correspondance de la liste des arguments '(SQLHSTMT, int, int, int Table::* , size_t, int)'
+  
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(109,42): error C2597: référence non conforme à un membre non static 'Table::capacite'
+  C:\Users\Douaa\source\repos\Res\Res\Table.h(10,9):
+  voir la déclaration de 'Table::capacite'
+  
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(109,9): error C2660: 'SQLGetData' : la fonction ne prend pas 6 arguments
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(748,20):
+  voir la déclaration de 'SQLGetData'
+  C:\Users\Douaa\source\repos\Res\Res\Table.cpp(109,9):
+  lors de la tentative de mise en correspondance de la liste des arguments '(SQLHSTMT, int, int, int Table::* , size_t, int)'
+  
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(111,33): error C2597: référence non conforme à un membre non static 'Table::idTable'
+  C:\Users\Douaa\source\repos\Res\Res\Table.h(9,9):
+  voir la déclaration de 'Table::idTable'
+  
+C:\Users\Douaa\source\repos\Res\Res\Table.cpp(101,5): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  Génération de code en cours...
